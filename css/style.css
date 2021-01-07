@@ -1,0 +1,172 @@
+/* ========= Layout section =========== */       
+
+
+
+body {
+    background-image: url("https://washingtonbaroque.files.wordpress.com/2013/09/handelsmessiah.jpg");
+    margin: 0px;
+    font-familY: ;
+    font-size: 14px;
+    }
+    
+    #header {
+    background-color:#99CC99 ;
+    margin: 10px;
+    height: 90px;
+    border-radius: 5px;
+    }
+    
+    
+    
+    /*#navbar ul{
+    padding: 5px;
+    height: 30px;
+    list-style-type: none;
+    text-align: center;
+    background-color: #99CC99;
+    margin: 10px;
+    border-radius: 5px;
+    }
+    
+    #navbar ul li{
+    display: inline;
+    }
+    
+    #navbar ul li a {
+    text-decoration: none;
+    font-family: Arial;
+    padding: .2em 1em;
+    color:#FFFFFF;
+    background-color: #99CC99;
+    }
+    
+    #navbar ul li a:hover {
+    color: #99CC99;
+    background-color: #FFFFFF;
+    
+    }
+    */
+    
+    
+    
+    #footer {
+    background-color:#99CC99 ;
+    margin: 10px;
+    height: 60px;
+    clear: both;
+    border-radius: 5px;
+    color: #000000;
+    text-align: center;
+    padding: 15px;
+    font-size: 90%;
+    }
+    
+    #footer ul{
+    padding: 5px;
+    height: 30px;
+    list-style-type: none;
+    text-align: center;
+    margin: 10px;
+    border-radius: 5px;
+    }
+    
+    #footer ul li{
+    display: inline;
+    }
+    
+    #footer ul li a {
+    text-decoration: none;
+    font-family: Arial;
+    padding: .2em 1em;
+    color:#FFFFFF;
+    background-color: #99CC99;
+    }
+    
+    #footer ul li a:hover {
+    color: #99CC99;
+    background-color: #FFFFFF;
+    
+    }
+    
+    
+    .main {
+    background-color:#000000; opacity:0.8;
+    margin-left: 320px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-botton: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 110%;
+    color: white;
+    }
+    
+    .sideleft {
+    background-color: #666699;
+    margin-top: 50px;
+    margin-left: auto;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 105%;
+    float: left;
+    width: 260px;
+    clear: left;
+    }
+    
+    
+    /* ========= heading section ======== */ 
+    h1 {
+    font-size: 500%;
+    color:pink;
+    align: center;
+    }
+    
+    h2 {
+    font-size: 400%;
+    color:pink;
+    align: center;
+    }
+    
+    h3 {
+    font-size: 150%;
+    color: white;
+    }
+    
+    h4 {
+    font-size: 300%;
+    color:pink;
+    align: center;
+    }
+    
+    h5 {
+    font-size: 350%;
+    text-align: center;
+    color: #000000;
+    font-family: Baskerville, "Baskerville Old Face", "Goudy Old Style", Garamond, "Times New Roman", serif;
+    margin: 0px;
+    
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    }
+    
+    
+    
+    .imagesidebar {
+    margin-top: 10px;
+    margin-left: auto;
+    border-radius: 5px;
+    float: left;
+    width: 300px;
+    clear: left;
+    opacity: 1.0;
+    transition: opacity 0.7s ease-in-out;
+    }
+    
+    .imagesidebar:hover {
+    opacity: 0.8;
+    }
+    
+    
